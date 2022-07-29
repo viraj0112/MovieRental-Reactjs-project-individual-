@@ -1,0 +1,39 @@
+.footer {
+  display: block;
+  background: fixed;
+  background-color: black;
+  padding: 10px;
+}
+.footer-info h6 {
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(159, 156, 156);
+  padding: 10px;
+}
+.footer-info {
+  text-align: center;
+}
+.table1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-small;
+  padding: 10px 25px 20px 5px;
+  display: inline-block;
+  text-align: center;
+}
+
+.table1 h6 {
+  padding: 0px 0px 10px 0px;
+  color: rgb(159, 158, 158);
+}
+
+.table2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-small;
+  padding: 10px 25px 20px 5px;
+  text-align: center;
+  margin: 0;
+}
+
+.table2 h6 {
+  padding: 0px 0px 10px 0px;
+  color: rgb(159, 158, 158);
+}
