@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+TO RUN THE APP TYPE "npm install" TO INSTALL ALL THE EXTRA FILES.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
