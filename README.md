@@ -2,6 +2,8 @@
 
 TO RUN THE APP TYPE "npm install" TO INSTALL ALL THE EXTRA FILES.
 
+Use build folder for production.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -77,4 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![image](https://user-images.githubusercontent.com/83603367/172213878-b3091d3b-3747-4213-a52f-6655c9bfc1c8.png)
 ![image](https://user-images.githubusercontent.com/83603367/172214065-4e1ea1c3-40b3-4f0b-ab19-9d3495d882f5.png)
 
-
+Please do not copy code/idea.
